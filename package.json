@@ -1,0 +1,10 @@
+{
+  "name": "hidamari-homepage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "架空の子どもの居場所「ひだまり」の紹介ホームページ",
+  "scripts": {
+    "start": "node scripts/serve.js",
+    "build": "node scripts/build.js"
+  }
+}
